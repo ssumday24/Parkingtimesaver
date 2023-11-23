@@ -5,7 +5,7 @@
 
 Welcome to Parktimesaver!
 =========================
-
+dfdfdffdfdffd
 1.About the Project
 ===================
 
@@ -44,6 +44,13 @@ Receipts and History: You’ll receive digital receipts for your payments, and y
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+
+   how_to_use
+
+
+
+
+   
 
 * :ref:`genindex`
 * :ref:`modindex`
