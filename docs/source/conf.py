@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'parktimesaver'
+project = 'parkingtimesaver'
 copyright = '2023, jaehun'
 author = 'jaehun'
 release = '1.0.0'
