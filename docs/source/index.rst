@@ -45,6 +45,6 @@ Receipts and History: You’ll receive digital receipts for your payments, and y
    :maxdepth: 2
    :caption: Contents:
 
-* :ref:`About the Project`
-* :ref:`Getting Started: Installation`
-* :ref:`How to use`
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
