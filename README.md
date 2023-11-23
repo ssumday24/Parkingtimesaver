@@ -10,6 +10,9 @@ These days, as parking places are increasing with rapid rate, we have difficulty
 
 ### Website adress
 
+https://parkingtimesaver.readthedocs.io/en/latest/
+
+
 ### Team member
 
 20011830 이하은 haeun0-0
@@ -36,9 +39,11 @@ When using large parking lots such as department stores and marts, many people v
 - Reservations can be made quickly and easily through our web platform, and users can easily confirm, modify, or cancel their bookings.
 - Payment Options: Most parking reservation services offer multiple payment options, allowing drivers to pay for parking fees without cash.
 
+----------
 
+### License
 
-
+Apache License, Version 2.0
 
 
 
