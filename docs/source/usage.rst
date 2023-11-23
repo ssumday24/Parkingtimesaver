@@ -2,10 +2,10 @@ How to Use
 ============
 
 **Selecting Your Spot**
- Log in to the Parktimesaver platform, choose your desired date, time, and location to see available parking spots.
+  Log in to the Parktimesaver platform, choose your desired date, time, and location to see available parking spots.
 
 **Booking** 
- Once you find a suitable spot, you can book it instantly with just a few clicks.
+  Once you find a suitable spot, you can book it instantly with just a few clicks.
 
 **Confirmation and Reminders**
   After booking, you'll receive a confirmation. We also send reminders as your reserved time approaches.
