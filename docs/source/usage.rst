@@ -13,3 +13,5 @@ Modifications: Plans change, and so can your reservations. You can modify or can
 **3.Paying Online** 
  After using the parking lot, you can make payments online through our secure payment gateway.
 Receipts and History: You’ll receive digital receipts for your payments, and you can access your payment history anytime for convenience.
+
+.
