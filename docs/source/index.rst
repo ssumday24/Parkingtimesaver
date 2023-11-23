@@ -45,4 +45,6 @@ Receipts and History: You’ll receive digital receipts for your payments, and y
    :maxdepth: 2
    :caption: Contents:
 
-
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
